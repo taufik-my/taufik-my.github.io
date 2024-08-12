@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-06-30 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I’ve just completed the 2024 Global Entrepreneurship Summer School Program, held at KAIST and Silicon Valley, USA 🇺🇸!
