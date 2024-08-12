@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Hi World! I am Taufik 🙋
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> 📝 CS, BTM, STP @ KAIST</p>
+    <p> 🎓 GKS-U'20</p>
+    <p> 🌱 Undergrad Researcher @ <a href='https://melab.kaist.ac.kr/'>MetaEarth Lab</a></p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p>I am a senior student double majoring in <a href="https://cs.kaist.ac.kr/">Computer Science</a> and <a href="https://btm.kaist.ac.kr/en/index.do">Business and Technology Management</a>, with a minor in <a href="https://stp.kaist.ac.kr/">Science and Technology Policy</a> at <a href="https://www.kaist.ac.kr/en/">KAIST</a>.  I am also honored to be a recipient of the <a href="http://niied.go.kr/user/nd35203.do">Global Korea Scholarship</a> for Undergraduate Degree 2020, the <a href="http://daewoongfoundation.or.kr/content/content2.asp?FolderName=sub02&filename=sub02_01">Daewoong Global Scholarship Program</a> (2022 and 2023), and the <a href="http://www.leewonfoundation.org/bin/minihome/neo_main758.htm?seq=9659&_aldo=154">Lee&Won Asian Fellowship</a> (2023).</p>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<p>I am interested in applying technology, especially AI, for good. Currently, I’m focused on computational sustainability, working as an undergraduate research intern at <a href='https://melab.kaist.ac.kr/'>MetaEarth Lab</a>. Outside of my academic pursuits, I love traveling 🗺️ and photography 📸, and I enjoy singing in my free time 🎶.</p>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p>I am also fascinated by startup culture and policy-making. Ultimately, I hope my existence can contribute something good to the world. Welcome to my personal website!😬</p>
+
