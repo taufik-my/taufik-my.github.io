@@ -22,5 +22,5 @@ social: false # includes social icons at the bottom of the page
 
 <p>I am interested in applying technology, especially AI, for good. Currently, I’m focused on computational sustainability, working as an undergraduate research intern at <a href='https://melab.kaist.ac.kr/'>MetaEarth Lab</a>. Outside of my academic pursuits, I love traveling 🗺️ and photography 📸, and I enjoy singing in my free time 🎶.</p>
 
-<p>I am also fascinated by startup culture and policy-making. Ultimately, I hope my existence can contribute something good to the world. Welcome to my personal website!😬 TETSlg</p>
+<p>I am also fascinated by startup culture and policy-making. Ultimately, I hope my existence can contribute something good to the world. Welcome to my personal website!😬</p>
 
