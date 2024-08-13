@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm excited to announce that I've been selected for the 2024 SDGs Youth Summer Camp, organized by UNOSD 🌏, focusing on solutions to #PlasticPollution.
+I've been selected for the 2024 SDGs Youth Summer Camp, organized by UNOSD 🌏, focusing on solutions to #PlasticPollution.
