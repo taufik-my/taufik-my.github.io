@@ -6,7 +6,7 @@ subtitle: Hi World! I am Taufik 🙋
 
 profile:
   align: right
-  image: taufik2.jpeg
+  image: taufik3.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p> 📝 CS, BTM, STP @ KAIST</p>
