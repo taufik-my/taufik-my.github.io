@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I’ve just completed the 2024 Global Entrepreneurship Summer School Program, held at KAIST and Silicon Valley, USA 🇺🇸!
+I’ve just completed the 2024 Global Entrepreneurship Summer School Program, held at KAIST and Silicon Valley, USA 🇺🇸
