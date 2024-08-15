@@ -3,7 +3,7 @@ layout: page
 title: "Marry Me - A Wedding Venue Finder"
 date: 2023-07-08 17:08:00 +0900
 description: "A Human-Computer Interaction Course Project" 
-img: /assets/img/posts/img/teamlgm1.JPG
+img: /assets/img/posts/img/teamlgm1.jpeg
 importance: 1
 category: work
 related_publications: false
@@ -77,7 +77,7 @@ Here are some images that document our team's journey throughout the project:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="/assets/img/posts/img/teamlgm1.JPG" class="img-fluid rounded z-depth-1 d-block mx-auto" width="400" height="200" zoomable=true %}
+        {% include figure.liquid path="/assets/img/posts/img/teamlgm1.jpeg" class="img-fluid rounded z-depth-1 d-block mx-auto" width="400" height="200" zoomable=true %}
     </div>
 </div>
 
@@ -93,7 +93,7 @@ My team and some Indonesian friends celebrating my birthday: May 27, 2023 🥹
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="/assets/img/posts/img/teamlgm3.JPG" class="img-fluid rounded z-depth-1 d-block mx-auto" width="400" height="200" zoomable=true %}
+        {% include figure.liquid path="/assets/img/posts/img/teamlgm3.jpeg" class="img-fluid rounded z-depth-1 d-block mx-auto" width="400" height="200" zoomable=true %}
     </div>
 </div>
 
