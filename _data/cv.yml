@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+      institution: ETH Switzerland
       year: 1905
       description:
         - Description 1.
@@ -60,6 +60,39 @@
     - title: Associate Professor of Theoretical Physics
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
+
+- title: Leadership Experience
+  type: time_table
+  contents:
+    - title: Project Leader
+      institution: Persatuan Pelajar Indonesia di Korea (PERPIKA)
+      year: 2020 - 2021
+      description:
+        - Led a team to organize the KS-Clinic Mentorship Program, providing mentoring to potential Indonesians for the Global Korea Scholarship.
+    
+    - title: KAIST Representative
+      institution: Leeds KAIST International Leadership Programme 2022
+      year: 2022
+      description:
+        - Distinguished as one of 14 KAIST representatives and engaged in cross-cultural collaboration to address UN SDG 11.
+
+    - title: Delegate
+      institution: Harvard Project for Asian and International Relations (HPAIR)
+      year: 2023
+      description:
+        - Selected as one of 150 delegates from all over the world.
+
+    - title: Student Cohort
+      institution: APRU SDG Education for Global Citizenship
+      year: 2022 - 2023
+      description:
+        - Collaborated with peers from APRU member universities to address mental health issues prevalent among college students.
+
+    - title: Workshop Participant
+      institution: Young Southeast Asian Leaders Initiative (YSEALI)
+      year: 2018
+      description:
+        - Selected as one of Indonesia's representatives for the YSEALI STEM Education Workshop in Phnom Penh, Cambodia.
 
 - title: Open Source Projects
   type: time_table
