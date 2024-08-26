@@ -32,46 +32,46 @@
       "courses": []
     }
   ],
-  "skills": [
-    {
-      "name": "Programming Languages",
-      "level": "",
-      "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python (Pandas, NumPy, scikit-learn)",
-        "HTML",
-        "CSS",
-        "R (dplyr, tidyr, ggplot2)",
-        "SQL"
-      ]
-    },
-    {
-      "name": "Analysis Techniques",
-      "level": "",
-      "icon": "fa-solid fa-chart-line",
-      "keywords": [
-        "Regression",
-        "Naive Bayes",
-        "Decision Trees",
-        "Random Forest",
-        "XGBoost",
-        "Hypothesis Testing",
-        "A/B Testing"
-      ]
-    },
-    {
-      "name": "Tools",
-      "level": "",
-      "icon": "fa-solid fa-tools",
-      "keywords": [
-        "Git",
-        "Figma",
-        "Microsoft Office",
-        "Canva",
-        "Adobe Creative Suite"
-      ]
-    }
-  ],
+"skills": [
+  {
+    "name": "Programming Languages",
+    "level": "",
+    "icon": "fa-solid fa-code",
+    "keywords": [
+      "Python (Pandas, NumPy, scikit-learn)",
+      "HTML",
+      "CSS",
+      "R (dplyr, tidyr, ggplot2)",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Analysis Techniques",
+    "level": "",
+    "icon": "fa-solid fa-chart-line",
+    "keywords": [
+      "Regression",
+      "Naive Bayes",
+      "Decision Trees",
+      "Random Forest",
+      "XGBoost",
+      "Hypothesis Testing",
+      "A/B Testing"
+    ]
+  },
+  {
+    "name": "Tools",
+    "level": "",
+    "icon": "fa-solid fa-tools",
+    "keywords": [
+      "Git",
+      "Figma",
+      "Microsoft Office",
+      "Canva",
+      "Adobe Creative Suite"
+    ]
+  }
+],
   "work": [
     {
       "name": "Korea Advanced Institute of Science and Technology",
@@ -295,7 +295,7 @@
     },
     {
       "language": "English",
-      "fluency": "Full Professional Proficiency",
+      "fluency": "Full Professional Profeciency",
       "icon": ""
     }
   ],
