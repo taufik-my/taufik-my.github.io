@@ -4,7 +4,7 @@ title: "The Beginning: Abroad"
 date: 2023-07-01 08:33:00 +0900
 categories: [slice of life]
 tags: [scholarship]
-comments: true
+giscus_comments: true
 math: false
 mermaid: false
 thumbnail: /assets/img/posts/img/airplane.avif

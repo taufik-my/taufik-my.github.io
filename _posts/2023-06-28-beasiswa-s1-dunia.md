@@ -3,6 +3,7 @@ layout: post
 title:  "Beasiswa S1 Dunia!"
 categories: [slice of life]
 tags: [scholarship]
+giscus_comments: true
 ---
 
 **Disclaimer: I wrote it long time ago in 2017, it's gonna be a bit cringe but I just wanna transfer it here**

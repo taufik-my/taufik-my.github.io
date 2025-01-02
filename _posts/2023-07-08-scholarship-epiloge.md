@@ -4,7 +4,7 @@ title: "Scholarship Application Story Epilogue: The Dilemma and The Decision"
 date: 2023-07-08 15:57:00 +0900
 categories: [slice of life]
 tags: [scholarship]
-comments: true
+giscus_comments: true
 math: false
 mermaid: false
 thumbnail: /assets/img/posts/img/dilemma.webp
