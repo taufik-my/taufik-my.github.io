@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://taufik-my.github.io/sitemap.xml
