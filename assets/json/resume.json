@@ -37,39 +37,19 @@
       "name": "Programming Languages",
       "level": "",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python (Pandas, NumPy, scikit-learn)",
-        "HTML",
-        "CSS",
-        "R (dplyr, tidyr, ggplot2)",
-        "SQL"
-      ]
+      "keywords": ["Python (Pandas, NumPy, scikit-learn)", "HTML", "CSS", "R (dplyr, tidyr, ggplot2)", "SQL"]
     },
     {
       "name": "Analysis Techniques",
       "level": "",
       "icon": "fa-solid fa-chart-line",
-      "keywords": [
-        "Regression",
-        "Naive Bayes",
-        "Decision Trees",
-        "Random Forest",
-        "XGBoost",
-        "Hypothesis Testing",
-        "A/B Testing"
-      ]
+      "keywords": ["Regression", "Naive Bayes", "Decision Trees", "Random Forest", "XGBoost", "Hypothesis Testing", "A/B Testing"]
     },
     {
       "name": "Tools",
       "level": "",
       "icon": "fa-solid fa-tools",
-      "keywords": [
-        "Git",
-        "Figma",
-        "Microsoft Office",
-        "Canva",
-        "Adobe Creative Suite"
-      ]
+      "keywords": ["Git", "Figma", "Microsoft Office", "Canva", "Adobe Creative Suite"]
     }
   ],
   "work": [
@@ -80,9 +60,7 @@
       "startDate": "2024-03-01",
       "endDate": "Present",
       "summary": "",
-      "highlights": [
-        "Work on AI-driven reconstruction of historical precipitation patterns to improve accuracy in climatology research."
-      ]
+      "highlights": ["Work on AI-driven reconstruction of historical precipitation patterns to improve accuracy in climatology research."]
     },
     {
       "name": "Korea Advanced Institute of Science and Technology",
@@ -149,9 +127,7 @@
       "startDate": "2019-08-01",
       "endDate": "2021-06-30",
       "summary": "",
-      "highlights": [
-        "Taught mathematics and English to junior high school students at Ruangbelajar Plus."
-      ]
+      "highlights": ["Taught mathematics and English to junior high school students at Ruangbelajar Plus."]
     }
   ],
   "leadership": [
@@ -187,9 +163,7 @@
       "startDate": "2022-08-01",
       "endDate": "2022-08-31",
       "summary": "",
-      "highlights": [
-        "Taught multicultural children simple science experiments."
-      ]
+      "highlights": ["Taught multicultural children simple science experiments."]
     },
     {
       "name": "Common Purpose",
@@ -223,9 +197,7 @@
       "startDate": "2018-02-01",
       "endDate": "2018-03-31",
       "summary": "",
-      "highlights": [
-        "Selected as one of Indonesia's representatives for the YSEALI STEM Education Workshop in Phnom Penh, Cambodia."
-      ]
+      "highlights": ["Selected as one of Indonesia's representatives for the YSEALI STEM Education Workshop in Phnom Penh, Cambodia."]
     }
   ],
   "awards": [
