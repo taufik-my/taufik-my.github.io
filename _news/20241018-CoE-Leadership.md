@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 I received the 2024 KAIST College of Engineering Leadership Award for outstanding extracurricular contributions 🏅
-
-

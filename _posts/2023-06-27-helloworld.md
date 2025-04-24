@@ -2,9 +2,9 @@
 layout: post
 title: Hello World 👋
 date: 2023-06-27 03:00:00 +0900
-description: 
-tags: 
-categories: 
+description:
+tags:
+categories:
 ---
 
 Beep boop....

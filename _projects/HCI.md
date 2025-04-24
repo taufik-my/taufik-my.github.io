@@ -2,19 +2,20 @@
 layout: page
 title: "Marry Me - A Wedding Venue Finder"
 date: 2023-07-08 17:08:00 +0900
-description: "A Human-Computer Interaction Course Project" 
+description: "A Human-Computer Interaction Course Project"
 img: /assets/img/posts/img/teamlgm1.jpeg
 importance: 1
 category: work
 related_publications: false
 ---
-During my last semester, I embarked on a fascinating journey in a Human-Computer Interaction course. My team, "Let's Get Married", and I developed an innovative solution named "MarryMe". The project aimed to simplify the process of finding a wedding venue by incorporating a user-friendly interface and a unique matching game that combines the preferences of both partners. At the end of the projects, we only  needed to develop the prototype using Figma.
+
+During my last semester, I embarked on a fascinating journey in a Human-Computer Interaction course. My team, "Let's Get Married", and I developed an innovative solution named "MarryMe". The project aimed to simplify the process of finding a wedding venue by incorporating a user-friendly interface and a unique matching game that combines the preferences of both partners. At the end of the projects, we only needed to develop the prototype using Figma.
 
 ## Key Features
 
-1. **Matching Game**: We designed a simple matching game where users can combine their preferences with their partner's. The result is an AI-generated visualization of the couple's combined preferences, aiding users in visualizing their venue. This was the concept, we did not implement the AI part here. 
+1. **Matching Game**: We designed a simple matching game where users can combine their preferences with their partner's. The result is an AI-generated visualization of the couple's combined preferences, aiding users in visualizing their venue. This was the concept, we did not implement the AI part here.
 
-2. **Venue Search**: We created a feature where users can search venues that match their combined preferences based on the matching game result. 
+2. **Venue Search**: We created a feature where users can search venues that match their combined preferences based on the matching game result.
 
 3. **Efficient Communication**: We included a chat page to improve communication with venue owners, eliminating the need for back-and-forth emails or phone calls.
 
@@ -65,7 +66,6 @@ Here are some representative screenshots from the interface:
 <div class="caption">
     Figure 3. User can search venues that matches their combined preferences with the partner based on the matching game result.    
 </div>
-
 
 ## Conclusion
 

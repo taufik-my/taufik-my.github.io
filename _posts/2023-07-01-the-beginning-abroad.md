@@ -10,7 +10,7 @@ mermaid: false
 thumbnail: /assets/img/posts/img/airplane.avif
 ---
 
-Ever since high school, I've been dreaming of going abroad and even traveling the world. Why? I don't know, I just thought it was cool. But then I realized that going overseas meant I could experience something different, meet new people, and understand other people's cultures. Indeed, those things are fascinating. As a broke student (I'm still broke now), it seemed impossible to realize that dream, so I had to find a way to go abroad without burning a hole in my wallet. 
+Ever since high school, I've been dreaming of going abroad and even traveling the world. Why? I don't know, I just thought it was cool. But then I realized that going overseas meant I could experience something different, meet new people, and understand other people's cultures. Indeed, those things are fascinating. As a broke student (I'm still broke now), it seemed impossible to realize that dream, so I had to find a way to go abroad without burning a hole in my wallet.
 
 The first idea that came to my mind was joining a science Olympiad competition with the expectation that I could represent my country at the international science Olympiad competition. (You can notice that it's totally the wrong intention LOL, and I guess you will know what happened next).
 

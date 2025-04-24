@@ -10,7 +10,6 @@ mermaid: false
 thumbnail: /assets/img/posts/img/dilemma.webp
 ---
 
-
 ## The Dilemma
 
 How would you feel if you received two prestigious scholarships simultaneously? You would be overjoyed, right? Yes, I was ecstatic, speechless, and couldn't believe that I had received both the Global Korea Scholarship and Monbukagakusho Japan. However, the excitement only lasted for about three days before three months of confusion hit me hard. I never expected to experience something similar to what Maudy Ayunda (whom I admire, by the way, as Stanford and Harvard both accepted her) had gone through. But personally, I believe my situation was even more complicated – I had to choose between two countries, two different majors, two universities, and two scholarship programs. My tendency to overthink and my past experience of making a poor decision made it difficult for me to decide.
