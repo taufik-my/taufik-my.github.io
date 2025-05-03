@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-bookshelf",
-          title: "bookshelf",
+        },{id: "nav-books",
+          title: "books",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -121,8 +121,8 @@ ninja.data = [{
             window.location.href = "/blog/2023/helloworld/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-i-will-teach-you-to-be-rich",
+          title: 'I Will Teach You to Be Rich',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
