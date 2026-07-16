@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I (officialy) graduated from KAIST with a double major in Computer Science and Business and Technology Management, and a minor in Science and Technology Policy 🎓
+I (officially) graduated from KAIST with a double major in Computer Science and Business and Technology Management, and a minor in Science and Technology Policy 🎓

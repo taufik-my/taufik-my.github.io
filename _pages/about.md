@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hi World! I am Taufik 🙋
+subtitle: Hi World! So glad you stopped by 🙋
 
 profile:
   align: right
