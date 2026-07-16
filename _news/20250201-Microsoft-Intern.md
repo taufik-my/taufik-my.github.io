@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will start my internship at Microsoft Netherlands <img src="/assets/img/microsoft.png" alt="Microsoft logo" height="15" style="vertical-align: middle; position: relative; top: -1px;">
+I started my internship at Microsoft Netherlands <img src="/assets/img/microsoft.png" alt="Microsoft logo" height="15" style="vertical-align: middle; position: relative; top: -1px;">

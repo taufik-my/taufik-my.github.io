@@ -4,9 +4,8 @@
     "label": "CS, BTM, STP @ KAIST | GKS-U'20 | YSEALI Alumnus | Undergraduate Researcher @ MetaEarth Lab",
     "image": "taufik2.jpeg",
     "email": "taufikmuhamadyusup@gmail.com",
-    "phone": "",
     "url": "https://taufik-my.github.io",
-    "summary": ""
+    "summary": "MSc student in Engineering and Policy Analysis at TU Delft with a background in Computer Science and Business & Technology Management from KAIST. Interested in applying technology, especially AI, for social good, with a focus on computational sustainability, technology policy, and systems thinking."
   },
   "education": [
     {
@@ -56,6 +55,7 @@
     {
       "name": "Korea Advanced Institute of Science and Technology",
       "position": "Undergraduate Researcher at MetaEarth Lab",
+      "location": "Daejeon, South Korea",
       "url": "https://melab.kaist.ac.kr/",
       "startDate": "2024-03-01",
       "endDate": "Present",
@@ -65,6 +65,7 @@
     {
       "name": "Korea Advanced Institute of Science and Technology",
       "position": "Student Assistant at KAIST International Relations Team (IRT)",
+      "location": "Daejeon, South Korea",
       "url": "",
       "startDate": "2024-01-01",
       "endDate": "Present",
@@ -74,6 +75,7 @@
     {
       "name": "Korea Advanced Institute of Science and Technology",
       "position": "Undergraduate Research Assistant at the Center for Anthropocene Studies",
+      "location": "Daejeon, South Korea",
       "url": "",
       "startDate": "2023-10-01",
       "endDate": "2024-01-31",
@@ -86,6 +88,7 @@
     {
       "name": "Korea Advanced Institute of Science and Technology",
       "position": "Student Assistant at KAIST International Scholar and Student Services (ISSS)",
+      "location": "Daejeon, South Korea",
       "url": "",
       "startDate": "2022-07-01",
       "endDate": "2023-09-30",
@@ -98,6 +101,7 @@
     {
       "name": "Schoters",
       "position": "Educational Consultant",
+      "location": "Remote",
       "url": "https://schoters.com/",
       "startDate": "2022-11-01",
       "endDate": "Present",
@@ -110,6 +114,7 @@
     {
       "name": "Daewoong Pharmaceutical",
       "position": "Product Development Intern",
+      "location": "Seoul, South Korea",
       "url": "https://www.daewoong.com/en/main",
       "startDate": "2023-09-01",
       "endDate": "2023-12-31",
@@ -123,6 +128,7 @@
     {
       "name": "Ruangguru.com",
       "position": "Part-time Tutor",
+      "location": "Remote",
       "url": "https://www.ruangguru.com/",
       "startDate": "2019-08-01",
       "endDate": "2021-06-30",

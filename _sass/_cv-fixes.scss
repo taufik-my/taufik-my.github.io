@@ -1,0 +1,57 @@
+/*****************************************************************
+ * CV (jsonresume) neatening
+ * v1 renders the jsonresume CV with Bootstrap list classes
+ * (`list-group`, `list-group-item`). Without bootstrap-compat those
+ * fall back to default disc bullets + indent. Reset them so entries
+ * read as clean rows (matching the previous site). Scoped to `.cv`.
+ *****************************************************************/
+
+.cv {
+  .list-group,
+  ul.list-group-flush {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+  }
+
+  .list-group-item {
+    list-style: none;
+    background: transparent;
+    border: none;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  /* Give the date column enough room for the uniform 160px badges so
+     they don't overlap the entry titles, and let details take the rest. */
+  .row {
+    flex-wrap: nowrap;
+    align-items: flex-start;
+  }
+
+  .date-column {
+    flex: 0 0 180px !important;
+    max-width: 180px !important;
+    width: 180px !important;
+  }
+
+  .date-column + div {
+    flex: 1 1 auto !important;
+    max-width: none !important;
+  }
+}
+
+/* On small screens, stack the date above the details. */
+@media (max-width: 576px) {
+  .cv .row {
+    flex-wrap: wrap;
+  }
+
+  .cv .date-column,
+  .cv .date-column + div {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+}
+
