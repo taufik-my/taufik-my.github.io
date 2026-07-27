@@ -8,11 +8,13 @@
   },
 
   // Features to add to the dev container. More info: https://containers.dev/features.
+  // NOTE: prettier feature removed — npm registry unreachable on this network.
+  // The esbenp.prettier-vscode extension below bundles its own Prettier, so
+  // format-on-save still works. Re-add if npm access is restored.
   "features": {
     "ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
-      "packages": "build-essential,imagemagick,inotify-tools,jupyter-nbconvert,procps,ruby-full,zlib1g-dev"
-    },
-    "ghcr.io/devcontainers-extra/features/prettier:1.0.2": {}
+      "packages": "build-essential,imagemagick,inotify-tools,jupyter-nbconvert,nodejs,procps,ruby-full,zlib1g-dev"
+    }
   },
 
   // Optionally: run jekyll serve automatically on container entering using the Docker entrypoint
