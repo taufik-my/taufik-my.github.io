@@ -180,19 +180,16 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "level": "",
       "icon": "fa-solid fa-code",
       "keywords": ["Python", "R", "SQL", "MATLAB"]
     },
     {
       "name": "Frameworks & Libraries",
-      "level": "",
       "icon": "fa-solid fa-layer-group",
       "keywords": ["PyTorch", "TensorFlow", "Keras", "Scikit-Learn", "Pandas", "NumPy", "SciPy", "Matplotlib", "dplyr", "tidyr", "ggplot2"]
     },
     {
       "name": "Tools & Software",
-      "level": "",
       "icon": "fa-solid fa-tools",
       "keywords": ["Git", "Figma", "Microsoft Office", "Canva", "Adobe Creative Suite", "Linux", "Docker", "Jupyter"]
     }
